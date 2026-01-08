@@ -1,2 +1,1 @@
-# README
-# LBD_gut_microbiome_analysis
+# LBD gut microbiome analysis
